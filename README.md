@@ -10,8 +10,12 @@ The purpose of this project was to speedrun this business idea in a couple hours
 How to run the code:
 
 Step 1) Open up your Node.js command prompt
+
 Step 2) npm install
+
 Step 3) npm run start
+
 Step 4) Go to the following URL -> http://localhost:3000/
+
 Step 5) Enjoy dozens of minutes of fun reading about animals
 
